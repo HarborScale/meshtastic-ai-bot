@@ -2,3 +2,4 @@ meshtastic
 pyserial
 PyPubSub
 openai
+dearpygui
